@@ -28,6 +28,16 @@ Table of contents
 
 11.Adding a Shopping List Edit Section
 
+12.Adding Navigation with Event Binding and ngIf
+
+13.Passing Recipe Data with Property Binding
+
+14.Passing Data with Event and Property Binding (Combined)
+
+15.Make sure you have FormsModule added
+
+16.Allowing the User to Add Ingredients to the Shopping List
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.3.
 
 ## Development server
