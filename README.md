@@ -1,5 +1,9 @@
 # ShoppingApp
 
+✔ Deploy complete!
+
+Hosting URL: https://recipedemo-3ecda.web.app
+
 NPM
 
 1. npm install --save bootstrap@3.3.7
