@@ -42,6 +42,10 @@ Table of contents
 
 16.Allowing the User to Add Ingredients to the Shopping List
 
+17.Building and Using a Dropdown directive
+
+18.Closing the dropdown from anywhere
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.3.
 
 ## Development server
